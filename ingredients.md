@@ -1,3 +1,4 @@
+# Let's begin!
 # INGREDIENTS
 # 2 cups sugar
 # 2 cups water
@@ -8,3 +9,4 @@
 # 1/4 teaspoon vanilla
 # 2 cups whipping cream
 # 2 tablespoons toasted sliced almonds (optional)
+# Enjoy my recipe!
