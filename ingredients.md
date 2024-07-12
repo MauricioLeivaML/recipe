@@ -1,6 +1,6 @@
 # Let's begin!
 # INGREDIENTS
-# 2 cups sugar
+# 2 cups sugarr
 # 2 cups water
 # 3 cinnamon sticks, broken up
 # 1 (3 1/2 ounce) package flaked coconut
